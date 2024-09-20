@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development with technologies like next js and mern stack<br>👯 I’m looking to collaborate on full stack development<br>🤝 I’m looking for help with <br>🌱 I’m currently learning to make simple to real world complex applications<br>💬 Ask me about anything<br>⚡ Fun fact: I started in graphic design, but a college teacher got me interested in web development, and now I'm stuck coding instead!
+🔭 I’m currently working on web development with technologies like next js and mern stack<br>👯 I’m looking to collaborate on full stack development<br>🌱 I’m currently learning to make simple to real world complex applications<br>💬 Ask me about anything<br>⚡ Fun fact: I started in graphic design, but a college teacher got me interested in web development, and now I'm stuck coding instead!
 
 
 ## 🌐 Socials:
